@@ -23,7 +23,7 @@ import com.google.appengine.api.search.StatusCode;
 
 /**
  * Search utilities for Google App Engine
- * @author Matteus Magnusson <matteus.magnusson@spiddekauga.com>
+
  */
 public class SearchUtils {
 	/**

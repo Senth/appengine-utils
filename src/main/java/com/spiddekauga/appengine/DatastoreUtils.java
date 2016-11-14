@@ -33,7 +33,7 @@ import com.spiddekauga.utils.IIdStore;
 
 /**
  * Utilities for Datastore
- * @author Matteus Magnusson <matteus.magnusson@spiddekauga.com>
+
  */
 public class DatastoreUtils {
 	/**
