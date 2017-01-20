@@ -21,7 +21,7 @@ tasks.withType(JavaCompile) {
 }
 
 dependencies {
-    compile 'com.github.Spiddekauga:common-utils:0.1.0'
+    compile project(':common-utils')
     compile 'com.google.appengine:appengine-api-1.0-sdk:1.9.42'
     compile 'javax.servlet:servlet-api:2.5'
 }
